@@ -97,7 +97,7 @@ a{
 
 .showcase-area{
     height: 50vh;
-    background: url("./images/header-image2.jpg");
+    background: url("/images/header-image2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
